@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this a great stream",
+      "id": 1
+    },
+    {
+      "title": "Rdr2 stream",
+      "description": "This is fun!",
+      "id": 2
+    },
+    {
+      "title": "Rdr2",
+      "description": "Nice stream",
+      "id": 3
+    },
+    {
+      "title": "Cp2077",
+      "description": "Nother stream nice",
+      "id": 4
+    },
+    {
+      "title": "Stream with id!!!",
+      "description": "New stream",
+      "userId": "102316321029140816618",
+      "id": 5
+    },
+    {
+      "title": "Another stream",
+      "description": "Feeling good with history",
+      "userId": "102316321029140816618",
+      "id": 6
+    },
+    {
+      "title": "Comonent reusing!!!",
+      "description": "Reusing component",
+      "id": 7
+    }
+  ]
+}
