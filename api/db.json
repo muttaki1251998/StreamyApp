@@ -21,18 +21,6 @@
       "id": 4
     },
     {
-      "title": "Stream with id!!!",
-      "description": "New stream",
-      "userId": "102316321029140816618",
-      "id": 5
-    },
-    {
-      "title": "Another stream",
-      "description": "Feeling good with history",
-      "userId": "102316321029140816618",
-      "id": 6
-    },
-    {
       "title": "Comonent reusing!!!",
       "description": "Reusing component",
       "id": 7
