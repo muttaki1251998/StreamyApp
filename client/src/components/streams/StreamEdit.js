@@ -8,6 +8,7 @@ class StreamEdit extends React.Component {
 
   componentDidMount() {
     this.props.fetchStream(this.props.match.params.id);
+    
   }
 
   onSubmit = (formValues) => {
@@ -16,7 +17,7 @@ class StreamEdit extends React.Component {
 
   render() {
     console.log(this.props.stream);
-    
+
     if(!this.props.stream) {
       return <div>Null</div>
     }
